@@ -1,1 +1,1 @@
-# try1
+# Kaggle üzerinden yaptığım çalışmalar
